@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.aurora","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"com.aurora","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.aurora","c":"Persona","l":"Persona(String, String, int, String)","u":"%3Cinit%3E(java.lang.String,java.lang.String,int,java.lang.String)"}];updateSearchResults();

@@ -1,0 +1,45 @@
+@options
+@packages
+-classpath
+'C:/Users/Aurora/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar;C:/Users/Aurora/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'c:/Users/Aurora/Desktop/2_INGENIERIA_INFORMATICA/ProgramacionIII/Semana13/chobi/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/Aurora/Desktop/2_INGENIERIA_INFORMATICA/ProgramacionIII/Semana13/chobi/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'chobi 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'c:/Users/Aurora/Desktop/2_INGENIERIA_INFORMATICA/ProgramacionIII/Semana13/chobi/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'chobi 1.0-SNAPSHOT API'
+com.aurora
+C:\Users\Aurora\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar = 1765366786729
+C:\Users\Aurora\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar = 1765366787769
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\src\main\java = 1765365967618
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\allclasses-index.html = 1765367748523
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\allpackages-index.html = 1765367748527
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\element-list = 1765367748398
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\help-doc.html = 1765367748575
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\index-all.html = 1765367748551
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\index.html = 1765367748559
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\member-search-index.js = 1765367748539
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\module-search-index.js = 1765367748529
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\overview-tree.html = 1765367748507
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\package-search-index.js = 1765367748534
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\search.html = 1765367748556
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\tag-search-index.js = 1765367748540
+c:\Users\Aurora\Desktop\2_INGENIERIA_INFORMATICA\ProgramacionIII\Semana13\chobi\target\site\apidocs\type-search-index.js = 1765367748537
